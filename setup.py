@@ -29,7 +29,7 @@ setup(
 
     author='trojkat',
     author_email='tomasz@karbownicki.com',
-    url='http://github.com/trojkat/pylama_gjslint',
+    url='https://github.com/ClearcodeHQ/pylama_gjslint',
     classifiers=[
         'Intended Audience :: Developers',
         'License :: OSI Approved :: BSD License',
