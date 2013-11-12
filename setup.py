@@ -28,7 +28,7 @@ setup(
     platforms=('Any'),
 
     author='trojkat',
-    author_email='tomasz@karbownicki.com',
+    author_email='thearoom@clearcode.cc',
     url='https://github.com/ClearcodeHQ/pylama_gjslint',
     classifiers=[
         'Intended Audience :: Developers',
