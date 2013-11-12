@@ -28,8 +28,8 @@ setup(
     long_description=read('README.rst'),
     platforms=('Any'),
     author='trojkat',
-    author_email='tomasz@karbownicki.com',
-    url='http://github.com/trojkat/pylama_gjslint',
+    author_email='thearoom@clearcode.cc',
+    url='https://github.com/ClearcodeHQ/pylama_gjslint',
     classifiers=[
         'Intended Audience :: Developers',
         'License :: OSI Approved :: BSD License',
